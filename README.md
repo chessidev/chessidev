@@ -17,4 +17,4 @@ I actively contribute to open-source projects, and I love collaborating with oth
 When I'm not coding, you can find me playing chess, sharpening my strategic thinking!
 
 📫 How to reach me:
-.  [LinkedIn](https://www.linkedin.com/in/eng-youssef-elsayed/)
+[LinkedIn](https://www.linkedin.com/in/eng-youssef-elsayed/)
